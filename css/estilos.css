@@ -22,6 +22,14 @@ body{
     font-size: 0.9em;
 }
 
+#contenido{
+    margin:0, 15, 10, 0;
+    padding: 15px;
+    width: 60%;
+    height: auto;
+    text-align: right;
+    
+}
 #container 
 {
     width: 70%;
