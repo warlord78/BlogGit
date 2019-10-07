@@ -27,8 +27,13 @@ body{
     padding: 15px;
     width: 60%;
     height: auto;
-    text-align: right;
     
+    
+}
+
+#contenido ul li{
+    font-family: Arial;
+    text-align: left;
 }
 #container 
 {
@@ -38,6 +43,7 @@ body{
     border: 1px solid #dddddd;
     margin: 0 auto;
 }
+
 
 #container h1{
     color: blue;
